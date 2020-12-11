@@ -369,7 +369,7 @@ extension BridgeWebView {
             return false
         }
         
-        if nameString.count <= 1 {
+        if nameStrings.count <= 1 {
             return false
         }
         
